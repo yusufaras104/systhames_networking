@@ -1,7 +1,7 @@
 import React from 'react';
-import Wrapper from '../layout/wrapper';
-import SEO from '../common/seo';
-import Catalogue from '../../../components/about/pdf';
+import Wrapper from '@/src/layout/wrapper';
+import SEO from '@/src/common/seo';
+import Catalogue from '@/src/components/about/pdf';
 
 const index = () => {
     return (
